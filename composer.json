@@ -1,0 +1,30 @@
+{
+    "type": "phpcodesniffer-standard",
+    "name": "shareforcelegal/coding-standards",
+    "description": "The coding standards for PHP_CodeSniffer we use at Shareforce B.V.",
+    "homepage": "https://shareforcelegal.com",
+    "license": "MIT",
+    "keywords": [
+        "shareforcelegal",
+        "shareforce",
+        "legal",
+        "coding-standards",
+        "coding",
+        "standard",
+        "standards",
+        "cs",
+        "code",
+        "style",
+        "sniffer",
+        "rules",
+        "sniffs",
+        "checks"
+    ],
+    "require": {
+        "php": "^7.1",
+        "doctrine/coding-standard": "^6.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
