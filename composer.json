@@ -21,7 +21,7 @@
         "checks"
     ],
     "require": {
-        "php": "^7.1",
+        "php": ">=7.4",
         "doctrine/coding-standard": "^9.0"
     },
     "config": {
