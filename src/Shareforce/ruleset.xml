@@ -19,4 +19,10 @@
             <property name="spacesCountBeforeColon" value="0"/>
         </properties>
     </rule>
+
+    <rule ref="SlevomatCodingStandard.TypeHints.UnionTypeHintFormat">
+        <properties>
+            <property name="shortNullable" value="yes"/>
+        </properties>
+    </rule>
 </ruleset>
